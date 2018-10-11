@@ -1,5 +1,4 @@
 # Introduction
-
 I am Sashank Bhargava.
 
 # Hobbies
@@ -7,7 +6,7 @@ I am Sashank Bhargava.
   - Playing video games
   - Watching movies
   - Swimming
+  - Having Fun
+  - Reading Books
 
-## My favourite smile is :wink:
-
-
+## My favourite smile is :laughing:
